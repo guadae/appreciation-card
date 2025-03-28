@@ -1,21 +1,15 @@
 import React from 'react'
 import { useState } from 'react';
 
-const Card = ({id, front, back}) => {
-  const [isFlipped, setIsFlipped] = useState(false);
+const Card = ({id, front, back, name}) => {
 
-  const handleClick = () => {
-    setIsFlipped(!isFlipped)
-  }
-  
   return (
     <>
-      <div
-      className={`card ${isFlipped ? 'flipped' : ''}`}
-      onClick={handleClick}
-      key={id}>
-      <div className="card-front">{front}</div>
-      <div className="card-back">{back}</div>
+    <div className="image-container" key={id}>
+      <img className="card-front" src={front} alt={name} width="360"/>
+      <div className="overlay">
+        <div className="overlay-text">{back}</div> 
+      </div>
     </div>
     </>
   )
