@@ -6,7 +6,7 @@ import './App.css'
 function App() {
   return (
   <div className='card-container'>
-  <title>4 col 2 row</title>
+  <title>From Us to You</title>
     {data.map((d) => (
       <Card 
         key={d.id}
