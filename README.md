@@ -10,6 +10,7 @@ npm run build
 
 ## Preview
 
+https://github.com/user-attachments/assets/235b3f85-0b07-40e2-9dd5-664dc9a67a65
 
 
 Currently, two official plugins are available:
