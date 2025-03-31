@@ -59,7 +59,7 @@ html, body {
 @media (min-width: 2560px) {
   .overlay-text {
     color: white; 
-    font-size: 45px; 
+    font-size: 35px; 
     padding: 50px; 
     margin: 10px; 
     white-space: pre-line;
