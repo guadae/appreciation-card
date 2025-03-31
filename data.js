@@ -9,25 +9,25 @@ const data = [
     id: 2, 
     front: './images/pavi.png',
     name: 'pavi',
-    back: 'yayaya'
+    back: "Hey my guy, \n I just want to take a moment to say how much I appreciate everything you\'ve done this year. The DnD campaign we started has been an incredible experience for me. Your creativity and sheer enthusiasm have fueled so much of my writing and world-building, and I can\'t thank you enough for that.\n The sessions have been beyond entertaining—they\’re immersive, engaging, and have given me the chance to see people\’s personalities in a whole new light. I\'ve always wanted to create something alongside a team, and now, thanks to you, I\'m actually doing it. That means a lot. \n Not only have you given me a platform to express my creativity, but you\'ve also provided a space where I can refine and perfect it. Because of your support, I\’ve been able to accomplish more than I ever thought possible. I\’ve found my calling, and your encouragement has played a huge role in that. The skills that I have grown in the book I\'ve been writing is the best thing I could have asked for. \n - Kyle"
   },
   {
     id: 3, 
     front: './images/morphiana.png',
     name: 'morphiana',
-    back: 'yayaya'
+    back: 'Thanks for being an awesome comfortable and accepting  dm \n - Essence'
   },
   {
     id: 4, 
     front: './images/shinji.png',
     name: 'shinji',
-    back: 'yayaya'
+    back: 'we have been day ones for a minute and I wouldn\'t have it any other way, appreciate you homie \n - Cameron'
   },
   {
     id: 5, 
     front: './images/shatari.png',
     name: 'shatari',
-    back: 'yayaya'
+    back: 'To mine friend, who doth keep the good times rolling, and the laughter ever flowing when the gas doth blow. I thank thee for aiding me to reach the peak of nerdish folly \n - Ray'
   },
   {
     id: 6, 
